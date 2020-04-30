@@ -100,7 +100,7 @@ subprojects {
             doLast {
                 copy {
                     from("./build/libs/")
-                    into("../release/")
+                    into("C:/Users/joshm/Documents/Custom OpenOSRS Plugins/xKylee")
                 }
             }
         }
